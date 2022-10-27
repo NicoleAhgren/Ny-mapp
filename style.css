@@ -59,6 +59,7 @@ footer {
     text-align: center;
     background-color: rgb(240, 240, 240);
     color: rgb(200, 22, 22);
+    margin-top: 25px;
 }
 .idk-man 
 {
@@ -80,4 +81,39 @@ footer {
 h1 {
     border: 5px solid rgb(200, 22, 22);
     padding: 2px;
+}
+.SpelRutor {
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.Spel1 {
+    width: 300px;
+    height: 400px;
+
+    margin-left: -25px;
+    margin-right: 25px;
+}
+.Spel2 {
+    width: 300px;
+    height: 400px;
+
+    margin-left: 350px;
+    margin-top: -400px;
+}
+.Spel3 {
+    width: 300px;
+    height: 400px;
+
+    margin-left: 730px;
+    margin-top: -400px;
+}
+.Spelbild {
+    width: 300px;
+    height: 300px;
+}
+.SpelB {
+    width: 290px;
+    height: 100px;
+    border: 5px solid black;
+    margin-bottom: 25px; 
 }
