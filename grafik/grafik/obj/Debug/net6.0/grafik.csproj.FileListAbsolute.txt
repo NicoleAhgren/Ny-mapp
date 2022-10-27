@@ -1,0 +1,15 @@
+C:\Users\ahgren.nicole\Documents\GitHub\Ny-mapp\grafik\grafik\bin\Debug\net6.0\grafik.exe
+C:\Users\ahgren.nicole\Documents\GitHub\Ny-mapp\grafik\grafik\bin\Debug\net6.0\grafik.deps.json
+C:\Users\ahgren.nicole\Documents\GitHub\Ny-mapp\grafik\grafik\bin\Debug\net6.0\grafik.runtimeconfig.json
+C:\Users\ahgren.nicole\Documents\GitHub\Ny-mapp\grafik\grafik\bin\Debug\net6.0\grafik.dll
+C:\Users\ahgren.nicole\Documents\GitHub\Ny-mapp\grafik\grafik\bin\Debug\net6.0\grafik.pdb
+C:\Users\ahgren.nicole\Documents\GitHub\Ny-mapp\grafik\grafik\obj\Debug\net6.0\grafik.csproj.AssemblyReference.cache
+C:\Users\ahgren.nicole\Documents\GitHub\Ny-mapp\grafik\grafik\obj\Debug\net6.0\grafik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahgren.nicole\Documents\GitHub\Ny-mapp\grafik\grafik\obj\Debug\net6.0\grafik.AssemblyInfoInputs.cache
+C:\Users\ahgren.nicole\Documents\GitHub\Ny-mapp\grafik\grafik\obj\Debug\net6.0\grafik.AssemblyInfo.cs
+C:\Users\ahgren.nicole\Documents\GitHub\Ny-mapp\grafik\grafik\obj\Debug\net6.0\grafik.csproj.CoreCompileInputs.cache
+C:\Users\ahgren.nicole\Documents\GitHub\Ny-mapp\grafik\grafik\obj\Debug\net6.0\grafik.dll
+C:\Users\ahgren.nicole\Documents\GitHub\Ny-mapp\grafik\grafik\obj\Debug\net6.0\refint\grafik.dll
+C:\Users\ahgren.nicole\Documents\GitHub\Ny-mapp\grafik\grafik\obj\Debug\net6.0\grafik.pdb
+C:\Users\ahgren.nicole\Documents\GitHub\Ny-mapp\grafik\grafik\obj\Debug\net6.0\grafik.genruntimeconfig.cache
+C:\Users\ahgren.nicole\Documents\GitHub\Ny-mapp\grafik\grafik\obj\Debug\net6.0\ref\grafik.dll
