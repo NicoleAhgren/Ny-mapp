@@ -62,6 +62,22 @@ footer {
 }
 .idk-man 
 {
-   grid: ;    
+   grid: 50px;    
    grid-template-columns:  80px, 70px ;
+}
+.MenyKnapp {
+    width: 125px;
+    Height: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: transparent;
+   /* border: 2px solid black; */
+}
+.MenyKnapp:hover{
+    display:block;
+    background-color: rgba(200, 22, 22, 0.493);
+}
+h1 {
+    border: 5px solid rgb(200, 22, 22);
+    padding: 2px;
 }
