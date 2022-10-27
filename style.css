@@ -30,8 +30,7 @@ main {
     grid-template-columns: 4fr 7fr 4fr;
     place-items: center;
 }
-
-.three-col-layout img {}
+/*    .three-col-layout img {}   */
 
 .header-top {
     display: flex;
